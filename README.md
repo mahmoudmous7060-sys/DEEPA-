@@ -11,7 +11,7 @@
 <div class="card">
   <h1>🚀 Best App For You</h1>
   <p>Limited access – install now and enjoy premium features.</p>
-  <a href="/go" class="btn">Continue</a>
+  <a href="/go" https://www.google.com/url?q=https%3A%2F%2Fsgben.com%2Flink%3Fz%3D10424523%26var%3D%257BSOURCE_ID%257D%26ymid%3D%257BCLICK_ID%257D&sa=D&sntz=1&usg=AOvVaw3K2Esso3AQup4zQAAtrplm
 </div>
 
 </body>
